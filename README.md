@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Ntlele</h1>
 <h3 align="center">A passionate frontend developer from Lesotho</h3>
 
+<img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+
 - 🔭 I’m currently working on [Instant Weather App](https://github.com/Ntlele/Instant_Weather_App)
 
 - 👯 I’m looking to collaborate on **any project**
@@ -20,15 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntlele&show_icons=true&locale=en&layout=compact" alt="ntlele" /></p>
 
-- 👋 Hi, I’m @Ntlele
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ntlele/Ntlele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
