@@ -5,6 +5,8 @@
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 - 🔭 I’m currently working on [Instant Weather App](https://github.com/Ntlele/Instant_Weather_App)
+  
+-   I am currently learning Android-studio, Kotlin and JAVA
 
 - 👯 I’m looking to collaborate on **any project**
 
