@@ -1,6 +1,6 @@
 <div background-color="black">
 <h1 align="center">Hi 👋, I'm David Ntlele</h1>
-<h3 align="center">A passionate frontend developer from Lesotho</h3>
+<h3 align="center">A passionate Software from Lesotho</h3>
 
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
