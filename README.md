@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on [Instant Weather App](https://github.com/Ntlele/Instant_Weather_App)
   
--   I am currently learning Android-studio, Kotlin and JAVA
+<h3 color="red" font-weight="bold">   I am currently learning Android-studio, Kotlin and JAVA</h3>
+<h3 color="red" font-weight="bold">   I am currently working on KIBO RPC Project</h3>
 
 - 👯 I’m looking to collaborate on **any project**
 
