@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on [Instant Weather App](https://github.com/Ntlele/Instant_Weather_App)
   
-<h3 color="red" font-weight="bold">   I am currently learning Docker, Python and flask</h3>
-<h3 color="red" font-weight="bold">   I am currently working on HBnB Evolution Project</h3>
+<h3 color="red" font-weight="bold">   I am currently learning Nodejs, Typescript and Javascript</h3>
+<h3 color="red" font-weight="bold">   I am currently working on AFFILIATE</h3>
 
 - 👯 I’m looking to collaborate on **any project**
 
